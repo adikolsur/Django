@@ -12,3 +12,6 @@ def help(req):
 
 def wel(req):
     return HttpResponse("<h2>Welcome Page</h2>")
+
+def img(req):
+    return render(req,'firstApp/image.html')
