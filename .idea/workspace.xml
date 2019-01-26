@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/level3_forms/formApp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level3_forms/formApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3_forms/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/level3_forms/formApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/level3_forms/level3_forms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/level3_forms/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/level3_forms/level3_forms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/level3_forms/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/level3_forms/templates/formApp/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/templates/formApp/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level3_forms/templates/formApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/templates/formApp/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,59 +36,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level3_forms/templates/formApp/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level3_forms/formApp/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/level3_forms/formApp/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level3_forms/formApp/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level3_forms/templates/formApp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,14 +67,16 @@
         <option value="$PROJECT_DIR$/firstProject/populate_app.py" />
         <option value="$PROJECT_DIR$/firstProject/firstApp/urls.py" />
         <option value="$PROJECT_DIR$/firstProject/templates/firstApp/user.html" />
-        <option value="$PROJECT_DIR$/firstProject/firstApp/admin.py" />
         <option value="$PROJECT_DIR$/firstProject/firstApp/models.py" />
-        <option value="$PROJECT_DIR$/level3_forms/level3_forms/settings.py" />
-        <option value="$PROJECT_DIR$/level3_forms/formApp/forms.py" />
-        <option value="$PROJECT_DIR$/level3_forms/level3_forms/urls.py" />
         <option value="$PROJECT_DIR$/level3_forms/templates/formApp/form.html" />
-        <option value="$PROJECT_DIR$/level3_forms/templates/formApp/index.html" />
         <option value="$PROJECT_DIR$/level3_forms/formApp/views.py" />
+        <option value="$PROJECT_DIR$/level3_forms/level3_forms/urls.py" />
+        <option value="$PROJECT_DIR$/firstProject/firstApp/admin.py" />
+        <option value="$PROJECT_DIR$/level3_forms/level3_forms/settings.py" />
+        <option value="$PROJECT_DIR$/level3_forms/templates/formApp/index.html" />
+        <option value="$PROJECT_DIR$/level3_forms/formApp/admin.py" />
+        <option value="$PROJECT_DIR$/level3_forms/formApp/forms.py" />
+        <option value="$PROJECT_DIR$/level3_forms/formApp/models.py" />
         <option value="$PROJECT_DIR$/level3_forms/formApp/urls.py" />
       </list>
     </option>
@@ -138,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,36 +106,10 @@
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
               <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-              <item name="formApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="formApp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,18 +153,18 @@
       <workItem from="1548312230910" duration="3975000" />
       <workItem from="1548444202721" duration="69000" />
       <workItem from="1548480134050" duration="6621000" />
-      <workItem from="1548499315682" duration="1841000" />
+      <workItem from="1548499315682" duration="8882000" />
+      <workItem from="1548515939212" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25481000" />
+    <option name="totallyTimeSpent" value="33097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12281879" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12416107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,9 +195,6 @@
     <entry file="file://$PROJECT_DIR$/firstProject/firstProject/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstProject/firstApp/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -275,20 +202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstProject/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstProject/firstProject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -320,13 +233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstProject/firstApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -347,44 +253,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstProject/templates/firstApp/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstProject/firstProject/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#636#668#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -395,46 +267,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/templates/formApp/form.html">
+    <entry file="file://$PROJECT_DIR$/firstProject/firstProject/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/migrations/0002_user.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/myDjango/Lib/site-packages/django/db/models/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="353">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/forms.py">
+    <entry file="file://$PROJECT_DIR$/firstProject/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="221">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstProject/firstProject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstProject/firstApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstProject/firstProject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1571">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/level3_forms/templates/formApp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/templates/formApp/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/level3_forms/formApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="493">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/urls.py">
+    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#636#668#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-951">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/formApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

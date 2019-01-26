@@ -3,10 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Form</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 </head>
 <body>
-<div>
-    {{form}}
+<h1>Fill this Form</h1>
+<div class="container">
+    <form action="" method="post">
+        {{form.as_p}}
+        {% csrf_token %}
+        <input type="submit" name="submit" class="btn btn-primary">
+    </form>
 </div>
 </body>
 </html>
