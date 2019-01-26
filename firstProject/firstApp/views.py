@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from firstApp.models import Topic,WebPage,AccessRecord
+from firstApp.models import Topic,WebPage,AccessRecord,User
 # Create your views here.
 
 def index(req):
@@ -17,3 +17,8 @@ def wel(req):
 
 def img(req):
     return render(req,'firstApp/image.html')
+
+def user(req):
+    data=User.objects.order_by('first_name')
+    dict={'user_info':data}
+    return render(req,'firstApp/user.html',context=dict)

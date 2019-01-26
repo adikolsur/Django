@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Information</title>
+    <link rel="stylesheet" href={% static "css/first.css" %}>
+</head>
+<body>
+<h1>All User Information Below:</h1>
+<div>
+    {% if user_info%}
+    <table>
+        <thread>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+        </thread>
+        {% for user in user_info %}
+        <tr>
+            <td>{{user.first_name}}</td>
+            <td>{{user.last_name}}</td>
+            <td>{{user.email}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% else %}
+    <p>NO USER RECORDS!</p>
+    {% endif %}
+</div>
+</body>
+</html>

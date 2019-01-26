@@ -5,7 +5,7 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", 'firstProject.settings')
 django.setup()
 
 import random
-from firstApp.models import WebPage, AccessRecord, Topic
+from firstApp.models import WebPage, AccessRecord, Topic, User
 from faker import Faker
 
 fake = Faker()
@@ -29,7 +29,15 @@ def populate(N=5):
         acc_rec = AccessRecord.objects.get_or_create(name=page, date=date)[0]
 
 
+def populate_users(N=10):
+    for i in range(N):
+        first_name = fake.first_name()
+        last_name = fake.last_name()
+        email = fake.email()
+        user = User.objects.get_or_create(first_name=first_name, last_name=last_name, email=email)[0]
+
+
 if __name__ == '__main__':
     print("populating model")
-    populate(20)
+    populate_users(20)
     print("Completed")
