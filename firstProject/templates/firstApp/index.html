@@ -3,11 +3,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>First Page</title>
+    <title>Django Level 2</title>
     <link rel="stylesheet" href={% static "css/first.css" %}>
 </head>
 <body>
-<h1>Hi! This is the Template Page</h1>
-<h2>{{insert_here}}</h2>
+<h1>Hi! This is the Records Page</h1>
+<h2>Records: </h2>
+<div>
+    {% if access_record%}
+    <table>
+        <thread>
+            <th>Site Name</th>
+            <th>Date Accessed</th>
+        </thread>
+    {% for acc in access_record %}
+    <tr>
+        <td>{{acc.name}}</td>
+        <td>{{acc.date}}</td>
+    </tr>
+    {% endfor %}
+    </table>
+    {% else %}
+    <p>NOACCESS RECORDS!</p>
+    {% endif %}
+</div>
 </body>
 </html>
