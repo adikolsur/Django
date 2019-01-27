@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/formApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/formApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/level3_forms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/level3_forms/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/level3_forms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/level3_forms/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/templates/formApp/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/templates/formApp/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level3_forms/templates/formApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/level3_forms/templates/formApp/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,12 +141,12 @@
       <workItem from="1548444202721" duration="69000" />
       <workItem from="1548480134050" duration="6621000" />
       <workItem from="1548499315682" duration="8882000" />
-      <workItem from="1548515939212" duration="575000" />
+      <workItem from="1548515939212" duration="619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33097000" />
+    <option name="totallyTimeSpent" value="33141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
