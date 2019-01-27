@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/level4_templates/myApp/template_tags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level4_templates/myApp/template_tags/my_custom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level4_templates/myApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/myApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,34 +23,25 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/index.html">
+        <entry file="file://$PROJECT_DIR$/level5_auth/level5_auth/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level4_templates/myApp/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="225">
+              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
             </state>
           </provider>
         </entry>
@@ -110,6 +99,8 @@
         <option value="$PROJECT_DIR$/level4_templates/myApp/template_tags/__init__.py" />
         <option value="$PROJECT_DIR$/level4_templates/myApp/template_tags/my_custom.py" />
         <option value="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" />
+        <option value="$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py" />
+        <option value="$PROJECT_DIR$/level5_auth/level5_auth/settings.py" />
       </list>
     </option>
   </component>
@@ -135,26 +126,13 @@
             <path>
               <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+              <item name="level5_auth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
-              <item name="myApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="level5_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="level5_auth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +145,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -208,17 +186,17 @@
       <workItem from="1548515939212" duration="619000" />
       <workItem from="1548590341661" duration="2222000" />
       <workItem from="1548599261913" duration="1025000" />
-      <workItem from="1548605407207" duration="2473000" />
+      <workItem from="1548605407207" duration="4490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38861000" />
+    <option name="totallyTimeSpent" value="40878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12818792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,7 +208,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -522,6 +500,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/templatetags/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/level4_templates/myApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -529,20 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/templatetags/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py">
+    <entry file="file://$PROJECT_DIR$/level5_auth/level5_auth/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
         </state>
       </provider>
     </entry>
