@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 {% extends 'myApp/base.html' %}
-
+{% load my_custom %}
 {% block body_block %}
 <h1>Welcome to Index</h1>
+<h2>{{text|cut_string:'Hi'}}</h2>
+<h2>{{number|add:69}}</h2>
 {% endblock %}
