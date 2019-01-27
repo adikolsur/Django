@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/level4_templates/level4_templates/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/level4_templates/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level4_templates/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/level4_templates/myApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/myApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level4_templates/myApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/myApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,24 +30,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/level4_templates/level4_templates/urls.py">
+        <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#640#672#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/urls.py">
+        <entry file="file://$PROJECT_DIR$/level4_templates/myApp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="20" selection-start-column="37" selection-end-line="21" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <element signature="e#636#668#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,10 +97,10 @@
         <option value="$PROJECT_DIR$/level4_templates/templates/myApp/base.html" />
         <option value="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" />
         <option value="$PROJECT_DIR$/level4_templates/templates/myApp/random.html" />
-        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html" />
         <option value="$PROJECT_DIR$/level4_templates/myApp/views.py" />
-        <option value="$PROJECT_DIR$/level4_templates/myApp/urls.py" />
         <option value="$PROJECT_DIR$/level4_templates/level4_templates/urls.py" />
+        <option value="$PROJECT_DIR$/level4_templates/myApp/urls.py" />
+        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html" />
       </list>
     </option>
   </component>
@@ -128,23 +126,6 @@
             <path>
               <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
               <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -158,6 +139,13 @@
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
               <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,12 +197,12 @@
       <workItem from="1548480134050" duration="6621000" />
       <workItem from="1548499315682" duration="8882000" />
       <workItem from="1548515939212" duration="619000" />
-      <workItem from="1548590341661" duration="991000" />
+      <workItem from="1548590341661" duration="2034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34132000" />
+    <option name="totallyTimeSpent" value="35175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -484,19 +472,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html">
+    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="714">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/urls.py">
+    <entry file="file://$PROJECT_DIR$/level4_templates/level4_templates/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="20" selection-start-column="37" selection-end-line="21" />
+          <folding>
+            <element signature="e#636#668#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -511,30 +509,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/settings.py">
+    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/level3_forms/level3_forms/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="20" selection-start-column="37" selection-end-line="21" />
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
-            <element signature="e#636#668#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level4_templates/level4_templates/urls.py">
+    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#640#672#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
