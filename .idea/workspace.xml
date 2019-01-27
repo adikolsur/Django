@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="" />
+    <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/level4_templates/myApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4_templates/templates/myApp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4_templates/templates/myApp/random.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level4_templates/level4_templates/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/level4_templates/level4_templates/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +31,47 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level4_templates/myApp/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/random.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,6 +106,13 @@
         <option value="$PROJECT_DIR$/level3_forms/formApp/forms.py" />
         <option value="$PROJECT_DIR$/level3_forms/formApp/models.py" />
         <option value="$PROJECT_DIR$/level3_forms/formApp/urls.py" />
+        <option value="$PROJECT_DIR$/level4_templates/level4_templates/settings.py" />
+        <option value="$PROJECT_DIR$/level4_templates/myApp/urls.py" />
+        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/bae.html" />
+        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/base.html" />
+        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" />
+        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/random.html" />
+        <option value="$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html" />
       </list>
     </option>
   </component>
@@ -80,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,12 +138,32 @@
             <path>
               <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level3_forms" type="462c0819:PsiDirectoryNode" />
+              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,16 +209,18 @@
       <workItem from="1548480134050" duration="6621000" />
       <workItem from="1548499315682" duration="8882000" />
       <workItem from="1548515939212" duration="619000" />
+      <workItem from="1548590341661" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33141000" />
+    <option name="totallyTimeSpent" value="33737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12416107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12550336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,8 +231,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -403,6 +472,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/level3_forms/formApp/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/level4_templates/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/level4_templates/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/myApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/random.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level4_templates/templates/myApp/relative_urls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
