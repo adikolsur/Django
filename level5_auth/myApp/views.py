@@ -1,5 +1,9 @@
 from django.shortcuts import render
 from myApp.forms import UserForm, UserProfileForm
+from django.http import HttpResponse, HttpResponseRedirect
+from django.core.urlresolvers import reverse
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth import authenticate, login, logout
 
 
 # Create your views here.
@@ -39,4 +43,9 @@ def register(req):
                   {'registered': registered, 'user_form': user_form, 'profile_form': profile_form})
 
 
-def login(req):
+def user_login(req):
+    if req.method == "POST":
+        username = req.POST.get('username')
+        password = req.POST.get('password')
+
+        user = authenticate(username=username, password=password)
