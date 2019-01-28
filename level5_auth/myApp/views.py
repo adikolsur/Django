@@ -37,3 +37,6 @@ def register(req):
 
     return render(req, 'myApp/registration.html',
                   {'registered': registered, 'user_form': user_form, 'profile_form': profile_form})
+
+
+def login(req):

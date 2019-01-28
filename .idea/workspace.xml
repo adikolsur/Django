@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25124a94-a849-4631-9718-b7e596cce491" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level5_auth/myApp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level5_auth/myApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level5_auth/templates/myApp/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level5_auth/templates/myApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level5_auth/templates/myApp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level5_auth/templates/myApp/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level5_auth/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level5_auth/level5_auth/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/level5_auth/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level5_auth/level5_auth/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/level5_auth/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level5_auth/myApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/myApp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level5_auth/myApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/myApp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/level5_auth/myApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/myApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5_auth/templates/myApp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/level5_auth/templates/myApp/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +35,29 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level5_auth/myApp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/level5_auth/templates/myApp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,7 +117,6 @@
         <option value="$PROJECT_DIR$/level4_templates/templates/myApp/index.html" />
         <option value="$PROJECT_DIR$/level4_templates/myApp/templatetags/my_custom.py" />
         <option value="$PROJECT_DIR$/level5_auth/myApp/admin.py" />
-        <option value="$PROJECT_DIR$/level5_auth/templates/myApp/login.html" />
         <option value="$PROJECT_DIR$/level5_auth/templates/myApp/base.html" />
         <option value="$PROJECT_DIR$/level5_auth/templates/myApp/index.html" />
         <option value="$PROJECT_DIR$/level5_auth/level5_auth/urls.py" />
@@ -117,6 +126,7 @@
         <option value="$PROJECT_DIR$/level5_auth/myApp/forms.py" />
         <option value="$PROJECT_DIR$/level5_auth/templates/myApp/registration.html" />
         <option value="$PROJECT_DIR$/level5_auth/myApp/views.py" />
+        <option value="$PROJECT_DIR$/level5_auth/templates/myApp/login.html" />
       </list>
     </option>
   </component>
@@ -138,11 +148,6 @@
             <path>
               <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="level4_templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DjangoUdemy" type="b2602c69:ProjectViewProjectNode" />
@@ -228,16 +233,18 @@
       <workItem from="1548599261913" duration="1025000" />
       <workItem from="1548605407207" duration="4490000" />
       <workItem from="1548661332266" duration="7286000" />
+      <workItem from="1548688210105" duration="178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48164000" />
+    <option name="totallyTimeSpent" value="48342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13087249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -249,7 +256,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -516,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level5_auth/templates/myApp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/level3_forms/formApp/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -581,16 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/level5_auth/myApp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/level5_auth/myApp/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -615,6 +605,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level5_auth/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level5_auth/templates/myApp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
