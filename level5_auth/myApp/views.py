@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from myApp.forms import UserForm, UserProfileForm
 from django.http import HttpResponse, HttpResponseRedirect
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate, login, logout
 
@@ -53,7 +53,7 @@ def user_login(req):
         if user:
             if user.is_active:
                 login(req, user)
-                return HttpResponseRedirect(reverse('index'))
+                return HttpResponseRedirect(reverse('myApp:index'))
             else:
                 return HttpResponse("Account Not Active")
 
@@ -64,3 +64,14 @@ def user_login(req):
 
     else:
         return render(req, 'myApp/login.html', {})
+
+
+@login_required
+def user_logout(req):
+    logout(req)
+    return HttpResponseRedirect(reverse('myApp:index'))
+
+
+@login_required
+def special(req):
+    return HttpResponse("Only Logged In Users can see this!")

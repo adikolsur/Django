@@ -4,9 +4,9 @@
 
 {% block body_block %}
 
-<div class="jumbotron" xmlns:myApp="http://www.w3.org/1999/xhtml">
+<div class="jumbotron">
     <h1>Login Here</h1>
-    <form action="{% url 'myApp:login' %}" method="post">
+    <form action="{% url 'myApp:user_login' %}" method="post">
         {% csrf_token %}
         <label for="username">UserName:</label>
         <input type="text" placeholder="Enter Username" name="username">
