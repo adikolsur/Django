@@ -49,3 +49,18 @@ def user_login(req):
         password = req.POST.get('password')
 
         user = authenticate(username=username, password=password)
+
+        if user:
+            if user.is_active:
+                login(req, user)
+                return HttpResponseRedirect(reverse('index'))
+            else:
+                return HttpResponse("Account Not Active")
+
+        else:
+            print("Login Failed for")
+            print("Username:{} and Password:{}".format(username, password))
+            return HttpResponse("Invalid Credentials. Try Again")
+
+    else:
+        return render(req, 'myApp/login.html', {})
