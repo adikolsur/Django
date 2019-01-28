@@ -4,4 +4,17 @@
 
 {% block body_block %}
 
+<div class="jumbotron" xmlns:myApp="http://www.w3.org/1999/xhtml">
+    <h1>Login Here</h1>
+    <form action="{% url 'myApp:login' %}" method="post">
+        {% csrf_token %}
+        <label for="username">UserName:</label>
+        <input type="text" placeholder="Enter Username" name="username">
+        <label for="password">Password:</label>
+        <input type="password" placeholder="Enter Password" name="password">
+
+        <input type="submit" value="Login">
+    </form>
+</div>
+
 {% endblock %}
